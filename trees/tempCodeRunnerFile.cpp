@@ -1,0 +1,1 @@
+cout<<lca(root,40,50);

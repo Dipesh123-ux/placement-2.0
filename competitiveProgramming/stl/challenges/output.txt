@@ -1,0 +1,1 @@
+value of n is: 30
